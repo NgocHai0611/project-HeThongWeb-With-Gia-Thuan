@@ -3,7 +3,6 @@
     padding: 0;
     border: 0;
     font-size: 100%;
-
 }
 
 .header-img{
@@ -21,9 +20,108 @@
     top: 1%;
     left: 1%;
     margin-top: -10px;
+    box-shadow: 5;
 }
 
 
 .header-link-home:hover{
     opacity: 0.5;
+}
+
+.content{
+    position: relative;
+    margin-left: 171px;
+    margin-top: 88px;
+}
+
+.header-in-content{
+    position: relative;
+    font-size: 20px;
+}
+
+.header-content{    
+    position: relative;
+    font-size: 45px;
+}
+
+.icon-hand-make-in-header1{
+    position: absolute;
+    width: 450px;
+    height: 8px;
+    background-color: black;
+    left: 52%;
+    margin-top: -45px;
+    margin-left: 5px;
+}
+
+.icon-hand-make-in-header2{
+    position: absolute;
+    width: 450px;
+    height: 8px;
+    background-color: black;
+    left: 52%;
+    margin-top: -30px;
+    margin-left: 5px;
+}
+
+.icon-hand-make-in-header3{
+    position: absolute;
+    width: 450px;
+    height: 8px;
+    background-color: black;
+    left: 52%;
+    margin-top: -15px;
+    margin-left: 5px;
+}
+
+.content-in-header{
+    margin-top: 44px;
+    font-size: 24px;
+}
+
+
+
+.list-content{
+    margin-top: 33px;
+}
+
+
+
+.list-content li{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.list-content a{
+    color: #2a6496;
+    position: absolute;
+    left: 3%;
+}
+
+.list-content a:hover{
+    color: #6aa4d5;
+    text-decoration: none;
+}
+
+.content-paragraph1{
+    width: 1123px;
+    position: relative;
+    font-size: 22px;
+    margin-top: 23px;
+}
+
+.header-content-paragraph1{
+    font-size: 30px;
+}
+
+.content1-in-paragraph1{
+    margin-top: 20px;
+}
+
+.content2-in-paragraph1{
+    margin-top: 20px;
+}
+
+.content3-in-paragraph1{
+    margin-top: 20px;
 }
